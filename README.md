@@ -4,7 +4,7 @@ This repository houses Python code that utilizes the `ccxt` library to fetch OHL
 
 ## Features
 
-1. **Fetching OHLCV Data**: Fetches the OHLCV data of a cryptocurrency pair from Binance.
+1. **Fetching OHLCV Data**: Fetches 1 day interval the OHLCV data of a cryptocurrency pair from Binance.
 2. **Multiple Technical Analyses**: The code runs a series of technical analyses on the fetched data, such as:
     - Volume Surge Detection
     - Volatility Index Calculation
