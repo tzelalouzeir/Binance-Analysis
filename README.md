@@ -36,10 +36,8 @@ pip install ccxt pandas pandas_ta
 3. Run the code using the following command:
 
 ```bash
-python <filename>.py
+python binance_analysis.py
 ```
-
-Replace `<filename>` with the name you've saved the provided code as.
 
 The script will fetch the top cryptocurrency pairs from Binance and run them through various technical analyses, printing detected patterns and indicators for each pair.
 
