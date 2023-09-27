@@ -57,6 +57,98 @@ The script will fetch the top cryptocurrency pairs from Binance and run them thr
 - `analyze_after_volume_drop`: Analyzes the price change after a volume drop.
 - `main`: The main function that ties all the other functions together.
 
+## Output
+27 Sep 2023 15:00 UTC+3
+```
+Analyzing BTC/USDT...
+BTC/USDT: Volume drop detected.
+After a volume drop, the average change in the 1st and 2nd candles were -0.09% and -0.18%, respectively.
+
+Analyzing ETH/USDT...
+ETH/USDT: Volume drop detected.
+After a volume drop, the average change in the 1st and 2nd candles were -0.09% and -0.18%, respectively.
+
+Analyzing XRP/USDT...
+XRP/USDT: Volume drop detected.
+After a volume drop, the average change in the 1st and 2nd candles were 0.12% and 0.13%, respectively.
+
+Analyzing FRONT/USDT...
+FRONT/USDT: Volume surge detected.
+
+FRONT/USDT: High volatility detected.
+
+Analyzing TRB/USDT...
+TRB/USDT: Volume surge detected.
+
+TRB/USDT: High volatility detected.
+
+TRB/USDT: Overbought conditions detected.
+
+Analyzing BNB/USDT...
+BNB/USDT: Volume drop detected.
+After a volume drop, the average change in the 1st and 2nd candles were -0.08% and -0.02%, respectively.
+
+Analyzing BLZ/USDT...
+BLZ/USDT: High volatility detected.
+
+Analyzing LOOM/USDT...
+LOOM/USDT: Volume surge detected.
+
+LOOM/USDT: High volatility detected.
+
+LOOM/USDT: Overbought conditions detected.
+
+Analyzing SOL/USDT...
+SOL/USDT: Volume drop detected.
+After a volume drop, the average change in the 1st and 2nd candles were -0.24% and -0.52%, respectively.
+
+Analyzing GLMR/USDT...
+GLMR/USDT: Volume surge detected.
+
+GLMR/USDT: Overbought conditions detected.
+
+Analyzing BCH/USDT...
+BCH/USDT: Volume drop detected.
+After a volume drop, the average change in the 1st and 2nd candles were 0.08% and 0.14%, respectively.
+
+Analyzing LUNA/USDT...
+LUNA/USDT: Overbought conditions detected.
+
+LUNA/USDT: Volume drop detected.
+After a volume drop, the average change in the 1st and 2nd candles were -0.68% and -1.09%, respectively.
+
+Analyzing LINK/USDT...
+LINK/USDT: Volume drop detected.
+After a volume drop, the average change in the 1st and 2nd candles were 0.12% and 0.23%, respectively.
+
+Analyzing WLD/USDT...
+WLD/USDT: Volume drop detected.
+After a volume drop, the average change in the 1st and 2nd candles were -0.16% and -0.30%, respectively.
+
+Analyzing AMB/USDT...
+AMB/USDT: Volume surge detected.
+
+Analyzing MKR/USDT...
+MKR/USDT: Overbought conditions detected.
+
+MKR/USDT: Volume drop detected.
+After a volume drop, the average change in the 1st and 2nd candles were 0.21% and 0.17%, respectively.
+
+Analyzing DOGE/USDT...
+DOGE/USDT: Volume drop detected.
+After a volume drop, the average change in the 1st and 2nd candles were -0.05% and -0.06%, respectively.
+
+Analyzing APT/USDT...
+APT/USDT: Volume drop detected.
+After a volume drop, the average change in the 1st and 2nd candles were -0.22% and -0.34%, respectively.
+
+Analyzing STORJ/USDT...
+STORJ/USDT: Volume surge detected.
+
+Analyzing ARB/USDT...
+ARB/USDT: Volume drop detected.
+After a volume drop, the average change in the 1st and 2nd candles were -0.22% and -0.44%, respectively.
+```
 ## Contributions
 
 Feel free to contribute to this repository by creating issues or sending pull requests. Any feedback is highly appreciated!
